@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemiAtack
+  - Ground
+  - PlayerHurt
+  - EnemiHurt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - PostProcessing
+  - AtacksLayer
+  - Player
+  - Enemi
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGound
+    uniqueID: 1465683977
+    locked: 0
+  - name: Enemi
+    uniqueID: 3247011087
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mapa
+    uniqueID: 1027152865
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1798970943
+    locked: 0
